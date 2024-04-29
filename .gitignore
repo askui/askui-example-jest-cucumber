@@ -1,5 +1,6 @@
 .env
 allure-report/
+allure-results/
 
 # Logs
 logs
