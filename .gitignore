@@ -1,3 +1,6 @@
+.env
+allure-report/
+
 # Logs
 logs
 *.log
